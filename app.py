@@ -73,7 +73,7 @@ if process_btn and uploaded is not None:
 
     # Save upload to temp file
     tdir = tempfile.mkdtemp()
-    in_path = os.path.join(tdir, "input_video")
+    in_path = os.path.join(tempfile.gettempdir(), "input_video")
     suffix = pathlib.Path(uploaded.name).suffix.lower()
     if suffix not in [".mp4",".mov",".mkv",".avi"]:
         suffix = ".mp4"
