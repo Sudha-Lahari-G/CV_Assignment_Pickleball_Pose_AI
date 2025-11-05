@@ -12,6 +12,12 @@ Annotated output video
 Biomechanics-based feedback  
 
 ---
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Pose-orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red?logo=opencv)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-brightgreen?logo=streamlit)
+![Colab](https://img.shields.io/badge/Platform-Google%20Colab-yellow?logo=googlecolab)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ### 🎯 Features
 
